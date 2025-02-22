@@ -1,0 +1,27 @@
+
+Array instance methods 	used for searching
+indexOf()	
+lastIndexOf()	
+includes()	
+find()	
+findIndex()	
+some()	
+every()
+filter()	
+findLast()	
+findLastIndex()
+
+Array instance methods 	used for modifying the array
+push()	
+pop()	
+unshift()	
+shift()	
+splice()
+slice()	
+concat()	
+fill()	
+reverse()
+sort()	
+copyWithin()
+flat()
+flatMap()
