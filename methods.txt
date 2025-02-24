@@ -1,27 +1,57 @@
+Adding or removing 
+    .push()
+    .pop()
+    .shift()
+    .unshift()
+    .splice()
 
-Array instance methods 	used for searching
-indexOf()	
-lastIndexOf()	
-includes()	
-find()	
-findIndex()	
-some()	
-every()
-filter()	
-findLast()	
-findLastIndex()
+Searching or filtering 
+    .indexOf()
+    .lastIndexOf()
+    .includes()
+    .find()
+    .findLast()
+    .findIndex()
+    .findLastIndex()
+    .filter()
 
-Array instance methods 	used for modifying the array
-push()	
-pop()	
-unshift()	
-shift()	
-splice()
-slice()	
-concat()	
-fill()	
-reverse()
-sort()	
-copyWithin()
-flat()
-flatMap()
+Iteration 
+    .forEach() 
+    .map()
+    .reduce()
+    .reduceRight()
+    .every()
+    .some()
+    .entries()
+    .keys()
+    .values()
+
+Sort or reorder
+    .sort()
+    .reverse()
+    .toSorted()
+    .toReversed()
+
+Extraction or copying 
+    .slice()
+    .concat()
+    .flat()
+    .flatMap()
+
+Filling or modifying
+    .fill()
+    .copyWithin()
+
+Transformation 
+    .join()
+    .toString()
+    .toLocaleString()
+
+
+Static Methods 
+    Array.from()
+    Array.of()
+    Array.isArray()
+
+Property
+    length
